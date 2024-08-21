@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\CALCULATR\bin\Debug\net8.0\CALCULATR.exe
+C:\Users\Пользователь\Desktop\CALCULATR\bin\Debug\net8.0\CALCULATR.deps.json
+C:\Users\Пользователь\Desktop\CALCULATR\bin\Debug\net8.0\CALCULATR.runtimeconfig.json
+C:\Users\Пользователь\Desktop\CALCULATR\bin\Debug\net8.0\CALCULATR.dll
+C:\Users\Пользователь\Desktop\CALCULATR\bin\Debug\net8.0\CALCULATR.pdb
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\CALCULATR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\CALCULATR.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\CALCULATR.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\CALCULATR.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\CALCULATR.dll
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\refint\CALCULATR.dll
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\CALCULATR.pdb
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\CALCULATR.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\CALCULATR\obj\Debug\net8.0\ref\CALCULATR.dll
